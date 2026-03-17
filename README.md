@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>Hi, I'm Om — a Computer Science student with a strong interest in software development and problem-solving.<br><br>💻 I have experience in:<br>- Java, Python, C<br>- Data Structures & Algorithms<br>- Web Development (MERN Stack,Mysql,PostgresSql,FastAPI)<br><br>🚀 Currently exploring:<br>- AI-powered applications<br>- Cloud technologies (Azure)<br>- Android development<br><br>🎯 Goals:<br>- Build impactful real-world projects<br>- Contribute to open-source<br>- Crack top tech opportunities<br><br>📫 Let's connect and build something amazing!
 
 
